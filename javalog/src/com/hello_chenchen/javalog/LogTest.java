@@ -13,9 +13,17 @@ public class LogTest {
 
         Logger logger = LoggerFactory.getLogger(LogTest.class);
 
-        logger.debug("chenchen");
-        logger.info("chenchen");
+//        logger.debug("chenchen");
+//        logger.info("chenchen");
         logger.warn("chenchen");
         logger.error("chenchen");
+
+        demo(logger);
+    }
+
+    public static void demo(Logger logger)
+    {
+        logger.debug("chenchen");
+        logger.info("chenchen");
     }
 }
