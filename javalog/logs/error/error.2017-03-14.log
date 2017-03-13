@@ -1,0 +1,8 @@
+[2017-03-14 00:48:05] [ERROR] [main] [] [com.hello_chenchen.javalog.LogTest:19] [main] chenchen
+[2017-03-14 00:49:41] [ERROR] [main] [] [com.hello_chenchen.javalog.LogTest:19] [main] chenchen
+[2017-03-14 00:55:53] [ERROR] [com.hello_chenchen.javalog.LogTest] [main] [main] [com.hello_chenchen.javalog.LogTest:19] chenchen
+[2017-03-14 00:56:36] [ERROR] [com.hello_chenchen.javalog.LogTest] [main] [main] [com.hello_chenchen.javalog.LogTest:19] chenchen
+[2017-03-14 00:56:48] [ERROR] [com.hello_chenchen.javalog.LogTest] [main] [main] [com.hello_chenchen.javalog.LogTest:19] chenchen
+[2017-03-14 00:57:29] [ERROR] [com.hello_chenchen.javalog.LogTest] [main] [main] [com.hello_chenchen.javalog.LogTest:19] chenchen
+[2017-03-14 01:14:08] [ERROR] [com.hello_chenchen.javalog.LogTest] [main] [main] [line:19] chenchen
+[2017-03-14 01:17:08] [ERROR] [com.hello_chenchen.javalog.LogTest] [main] [main] [line:19] chenchen
